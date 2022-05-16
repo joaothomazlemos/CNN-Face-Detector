@@ -4,7 +4,7 @@ The pre-trained Convolutional Neural Network model was created by Alexey Bochkov
 For this task, I downloaded thermographic images from the public domain http://tdface.ece.tufts.edu/, them I used the labelImg to label the forehead (testa) and face, as shown in the image below.
 ![image](https://user-images.githubusercontent.com/62029505/168625479-1cce5cc4-0e6b-4612-9f50-929312db82fd.png)
 
-Transfer learning for face and forehead detection with YOLOv4, with thermographic images.
+Then, I trained the model in the google colaboratory cloud with my 300 labeled examples, where 0 was the class testa (forehead), and 1 was the class face. The model achieved good results, with a the Intersection over Union (IoU) normalized metric = 70%.
 
 Prediction example:
 
