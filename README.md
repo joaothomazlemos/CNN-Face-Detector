@@ -10,7 +10,7 @@ Prediction example:
 
 ![image](https://user-images.githubusercontent.com/62029505/168620901-b2c380f7-1774-4fe4-b7b5-c62b4dd9e019.png)
 
-
+the YOLO_v4_Treinamento_do_detector.ipynb file contains the model and the transfer learning, with the results for my data;
 The obj folder contains the labeled images for training;
 The valid folder contains the labeled images for validation;
 The Yolo_ImagemTermog folder cointains the instructions I followed for this task;
