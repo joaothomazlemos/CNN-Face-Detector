@@ -9,3 +9,11 @@ Then, I trained the model in the google colaboratory cloud with my 300 labeled e
 Prediction example:
 
 ![image](https://user-images.githubusercontent.com/62029505/168620901-b2c380f7-1774-4fe4-b7b5-c62b4dd9e019.png)
+
+
+The obj folder contains the labeled images for training;
+The valid folder contains the labeled images for validation;
+The Yolo_ImagemTermog folder cointains the instructions I followed for this task;
+The Label_img-windows_v1.8.1 folder contains the Imager Labeler that I used to label the thermographic dowloaded images.
+
+
